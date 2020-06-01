@@ -1,5 +1,3 @@
-## Matt Gooch
-
 Hello, My Name is Matt. 👋
 
 ## About
