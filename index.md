@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Matt Gooch
 
-You can use the [editor on GitHub](https://github.com/mjmgooch/mjmgooch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, My Name is Matt. 👋
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+An experienced Technology Specialist with a demonstrated history of delivering innovative solutions, working in both the facilities services and Pest Control industry. I have an in-depth understanding of the Pest Control industry and the challenges faced by clients.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
-```markdown
-Syntax highlighted code block
+#### Commercial Operations Manager (Pest Pulse UK)
+------------
+**Pest Pulse**
 
-# Header 1
-## Header 2
-### Header 3
+Pest Pulse is revolutionising the pest control industry through tech-led innovation. Our patented technologies and expert pest control services offer commercial clients vastly improved services using our modern & eco-friendly techniques.
 
-- Bulleted
-- List
+#### IT Manager
+------------
+**MPCL ltd (Formerly Mitie/Mitie Pest Control). Now Terminx UK.**
 
-1. Numbered
-2. List
+During a transitionary phase from Mitie to Terminix UK, led the technology transformation from away from corporate infrastructure to self sustaining SME business.
 
-**Bold** and _Italic_ and `Code` text
+- End-to-end scoping of the tech ecosystem
+- Migration and infrastructure planning
+- Development and implementation of key client integrations to improve business process
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Head of Business Solutions / IT (Specialist Services Division)
+------------
+**Mitie**
 
-### Jekyll Themes
+As a member of the IT operations group, I was responsible for developing product roadmaps and information system strategy with alignment to group and business unit goals
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjmgooch/mjmgooch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ - Development of Pest Alert and Live Landscapes web portals, the websites support several high street brand names and was a Finalist in the 2015 technology in FM awards
+ - Implemented a content delivery network to deliver site assets using Azure & Cloudflare
+ - Designed a real-time notification system to alert clients to varying pest control and landscaping activities using micro-services.
+ - Formed a team of 6 permanent staff to support a wide range of technology and reporting requirements
+ - Designed and implemented a bespoke workforce management app in use by 500+ engineers
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### System & Communications Manager
+------------
+**May 2007 – Dec 2015**
+
+- Attending and Hosting client meetings to gather requirements for new features or to work with their technical teams
+- Liaised with technical 3rd party developers to explain new functionality and resolve complex issues involving multiple technologies and platforms.
+- Responsible for all software testing and releases into production environments
+- Introducing new features to a custom-built workforce management system
+- Subject matter expert for any technical and non-technical queries to business IT systems
+- Provided training and support for varied levels of user experience
+- A year-long placement on the Mitie Group challenge board reporting directly to the CEO.
+
+
+### Contact
+
+Reach out to me on [Twitter](https://twitter.com/mjmgooch) or [LinkedIn](https://www.linkedin.com/in/mjmgooch1/)
