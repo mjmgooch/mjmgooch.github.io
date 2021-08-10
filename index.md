@@ -2,15 +2,22 @@ Hello, My Name is Matt. 👋
 
 ## About
 
-An experienced Technology Specialist with a demonstrated history of delivering innovative solutions, working in both the facilities services and Pest Control industry. I have an in-depth understanding of the Pest Control industry and the challenges faced by clients.
+An experienced Technology Specialist with a history of delivering innovative technology solutions. 
+
+Having worked across a broad range of service businesses, I have an in-depth understanding of how technology can overcome the challenges faced by clients and users of business technology.
 
 ## Experience
 
 ### Pest Pulse
 #### Commercial Operations Manager (Pest Pulse UK)
-*April 2019 - Present*
+*April 2019 - August 2021*
 
-Pest Pulse is revolutionising the pest control industry through tech-led innovation. Our patented technologies and expert pest control services offer commercial clients vastly improved services using modern & eco-friendly techniques.
+Building processes and utilising technology to accelerate and support growth in a fast-paced start-up environment.
+
+- Responsible for setting up a customer support system to facilitate better internal management of inquiries and provide a quality customer experience across multiple channels. 
+- Providing business support in a broad range of areas to help achieve ambitious company targets. Including, operations, sales, support, marketing, product development, and health and safety. 
+- Developing the Pest Pulse business online presence including social media management and company website. 
+
 
 ### MPCL ltd (Formerly Mitie/Mitie Pest Control. Now Terminix UK)
 #### IT Manager
@@ -42,10 +49,10 @@ As a member of the IT operations group, I was responsible for developing product
 - Attending and Hosting client meetings to gather requirements for new features or to work with their technical teams
 - Liaised with technical 3rd party developers to explain new functionality and resolve complex issues involving multiple technologies and platforms
 - Responsible for all software testing and releases into production environments
-- Introducing new features to a custom-built workforce management system
+- Developing new features for a custom-built workforce management system
 - Subject matter expert for any technical and non-technical queries to business IT systems
 - Provided training and support for varied levels of user experience
-- A year-long placement on the Mitie Group challenge board reporting directly to the CEO
+- A year-long placement on the Mitie Group challenge board, reporting directly to the CEO
 
 ## Contact
 
