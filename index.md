@@ -2,8 +2,6 @@ Hello, My Name is Matt. 👋
 
 ## About
 
-An experienced Technology Specialist with a history of delivering innovative solutions. 
-
 Having worked across a broad range of service businesses, I have an in-depth understanding of how technology can overcome the challenges faced by clients and users of business technology.
 
 ## Experience
