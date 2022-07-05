@@ -2,9 +2,13 @@ Hello, My Name is Matt. 👋
 
 ## About
 
-Having worked across a broad range of service businesses, I have an in-depth understanding of how technology can overcome the challenges faced by clients and users of business technology.
+Having worked across a range of service businesses, I have an in-depth understanding of how technology can overcome the challenges faced by businesses and users.
 
 ## Experience
+
+### Jitterbit
+#### Sales Engineer
+*August 2021 - Present*
 
 ### Pest Pulse
 #### Commercial Operations Manager (Pest Pulse UK)
