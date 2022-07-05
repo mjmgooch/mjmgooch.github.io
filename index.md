@@ -7,7 +7,7 @@ Having worked across a range of service businesses, I have an in-depth understan
 ## Experience
 
 ### Jitterbit
-#### Sales Engineer
+#### Sales Engineer (EMEA)
 *August 2021 - Present*
 
 ### Pest Pulse
